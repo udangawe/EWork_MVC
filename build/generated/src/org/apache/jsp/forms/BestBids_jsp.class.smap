@@ -1,0 +1,19 @@
+SMAP
+BestBids_jsp.java
+JSP
+*S JSP
+*F
++ 0 BestBids.jsp
+forms/BestBids.jsp
+*L
+5,33:57
+37:120,11
+38,2:131
+39:170,5
+39,2:135
+40:188,5
+40,2:139
+41:206,5
+41,3:143
+43,11:92
+*E
